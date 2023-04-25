@@ -35,6 +35,8 @@
   <usePurposes>PersonalComputer</usePurposes>
   <scriptVariant>Russian</scriptVariant>
   <defaultRoles>Role.ASTM_ОсновнаяРоль</defaultRoles>
+  <vendor>ear.test</vendor>
+  <version>1.0.0.0</version>
   <defaultLanguage>Language.Русский</defaultLanguage>
   <interfaceCompatibilityMode>TaxiEnableVersion8_2</interfaceCompatibilityMode>
   <compatibilityMode>8.3.17</compatibilityMode>

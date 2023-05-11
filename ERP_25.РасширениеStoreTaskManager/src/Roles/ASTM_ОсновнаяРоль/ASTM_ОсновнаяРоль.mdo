@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mdclass:Role xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="4a7328b2-8fd2-4904-bcda-f2bd4da7726b">
-  <name>ASTM_ОсновнаяРоль</name>
-  <synonym>
-    <key>ru</key>
-    <value>Основная роль</value>
-  </synonym>
-</mdclass:Role>

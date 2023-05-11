@@ -5,7 +5,7 @@
     <key>ru</key>
     <value>Расширение store task manager (ASTM)</value>
   </synonym>
-  <comment>Добавим коммент для теста</comment>
+  <comment>Добавим коммент для теста (дополнение)</comment>
   <objectBelonging>Adopted</objectBelonging>
   <extension xsi:type="mdclassExtension:ConfigurationExtension">
     <defaultRunMode>Checked</defaultRunMode>

@@ -3,7 +3,7 @@
   <name>РасширениеStoreTaskManager</name>
   <synonym>
     <key>ru</key>
-    <value>Расширение store task manager (ASTM)</value>
+    <value>Расширение store task manager (ASTM) (Тест)</value>
   </synonym>
   <comment>Добавим коммент для теста</comment>
   <objectBelonging>Adopted</objectBelonging>
